@@ -1,3 +1,5 @@
 /res
 *.pyc
 .DS_Store
+out.json
+out.tsv

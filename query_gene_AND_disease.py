@@ -1,4 +1,4 @@
-from pubmed.query import query_pubmed
+from scr.query import query_pubmed
 import sys
 import pandas as pd
 import json
