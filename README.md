@@ -4,7 +4,8 @@
 
 ```pip install biopython```
 
-# Query (Disease Name) AND (GENE NAME)
+# Pipelines
+## Query (Disease Name) AND (GENE NAME)
 
 ```bash query_gene_AND_disease.sh```
 
