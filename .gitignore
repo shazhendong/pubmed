@@ -2,3 +2,4 @@
 *.DS_Store
 /res
 *.pyc
+.DS_Store
